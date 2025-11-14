@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+
+# Virtual environments
+myenv/
+venv/
+.env/
+.venv/
+
+# MLflow
+mlruns/
+mlartifacts/
+mlruns.db
+
+# Artifacts
+artifacts/
+models/
+output/
+checkpoints/
+
+# Streamlit
+.streamlit/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+*.csv

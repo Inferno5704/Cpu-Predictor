@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+mlflow
+joblib
+streamlit
+plotly
+tqdm
+xgboost   # optional; safe if not installed (import guarded)
+lightgbm  # optional; import guarded
