@@ -7,3 +7,11 @@ plotly
 tqdm
 xgboost   # optional; safe if not installed (import guarded)
 lightgbm  # optional; import guarded
+streamlit
+pandas
+numpy
+scikit-learn
+requests
+joblib
+plotly
+
